@@ -1,5 +1,6 @@
 using lab7.Model;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 
 
 var builder = WebApplication.CreateBuilder(args);
