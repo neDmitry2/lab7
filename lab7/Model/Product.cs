@@ -24,3 +24,4 @@ namespace lab7.Model
 
         public bool InStock { get; set; } = true;
     }
+}
